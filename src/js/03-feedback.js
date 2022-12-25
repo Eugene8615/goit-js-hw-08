@@ -1,5 +1,6 @@
 import throttle from 'lodash.throttle'
 
+console.log(4);
 
 const ourFormREF = document.querySelector('.feedback-form');
 let ourForminfo = {};
